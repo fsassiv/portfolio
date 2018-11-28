@@ -1,0 +1,14 @@
+    /*parallax assist class*/
+	/*class .parallax-box must be the parent related do the body*/
+	/*class .parallax--n is the modifier for each parallax section in the document*/
+    .parallax {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100vh;
+      z-index: -1;
+      background-position-x: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
