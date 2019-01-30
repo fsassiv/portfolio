@@ -1,0 +1,24 @@
+// BREAKPOINTS AND MEDIA QUERIES
+@mixin min-phablet {
+  @media only screen and (min-width:$phablet) {
+    @content;
+  }
+}
+
+@mixin min-tablet {
+  @media only screen and (min-width:$tablet) {
+    @content;
+  }
+}
+
+@mixin min-desktop {
+  @media only screen and (min-width:$desktop) {
+    @content;
+  }
+}
+
+@mixin min-desktop-hd {
+  @media only screen and (min-width:$desktop-hd) {
+    @content;
+  }
+}

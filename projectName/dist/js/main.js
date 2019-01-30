@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-eval("const myName = \"Sinner\";\r\n\r\nconsole.log(`Hi, ${myName}`);//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9wcm9qZWN0TmFtZS9kZXYvanMvbWFpbi5qcz83OGI4Il0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztBQUVBLG1CQUFtQixPQUFPIiwiZmlsZSI6Ii4vcHJvamVjdE5hbWUvZGV2L2pzL21haW4uanMuanMiLCJzb3VyY2VzQ29udGVudCI6WyJjb25zdCBteU5hbWUgPSBcIlNpbm5lclwiO1xyXG5cclxuY29uc29sZS5sb2coYEhpLCAke215TmFtZX1gKTsiXSwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./projectName/dev/js/main.js\n");
+eval("//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiIuL3Byb2plY3ROYW1lL2Rldi9qcy9tYWluLmpzLmpzIiwic291cmNlc0NvbnRlbnQiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./projectName/dev/js/main.js\n");
 
 /***/ })
 
