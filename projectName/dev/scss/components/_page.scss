@@ -3,13 +3,16 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-position: left;
-  @media only screen and(min-width:992px) {
+
+  @media only screen and(min-width: 992px) {
     background-size: 110% auto;
   }
+
   &__info-box {
     background-color: rgba(white, 0.75);
     padding: 5px;
   }
+
   &__title {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -17,7 +20,9 @@
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
+    position: relative;
   }
+
   &__img {
     border-radius: 50%;
     display: inline-block;
@@ -26,10 +31,19 @@
     border: 5px solid white;
     -webkit-transition: all 0.25s ease;
     transition: all 0.25s ease;
+
     &:hover {
-      width: 200px;
+      width: 150px;
       border-width: 0;
+
     }
+  }
+
+  &__lang {
+    position: absolute;
+    left: 0;
+    bottom: -10%;
+    font-size: 16px;
   }
 }
 
@@ -40,31 +54,39 @@
     -webkit-box-pack: start;
     -ms-flex-pack: start;
     justify-content: flex-start;
-    @media only screen and(min-width:992px) {
+
+    @media only screen and(min-width: 992px) {
       -webkit-box-pack: start;
       -ms-flex-pack: start;
       justify-content: flex-start;
     }
   }
+
   &__icon {
     font-size: 3rem;
-    @media only screen and(min-width:992px) {
+
+    @media only screen and(min-width: 992px) {
       font-size: 4rem;
     }
   }
+
   &__subtitle {
     margin-bottom: 1rem;
   }
+
   &__list {
     text-align: center;
-    @media only screen and(min-width:992px) {
+
+    @media only screen and(min-width: 992px) {
       text-align: left;
     }
   }
+
   &__item {
     margin-top: 5px;
     font-size: 1.1rem;
     display: inline-block;
+
     &:not(:last-child) {
       margin-right: 15px;
     }
@@ -76,6 +98,7 @@
   position: relative;
 
   background-color: rgba($color: #000000, $alpha: 0.1);
+
   &::after {
     content: "";
     position: absolute;
@@ -89,23 +112,29 @@
     background-image: url("../img/portfolio-background.jpeg");
     z-index: -1;
   }
+
   &__item-title {
     margin-top: 10px;
     margin-bottom: 5px;
   }
+
   div[class^="col-"] {
     background-color: rgba(white, 0.5);
     padding-bottom: 10px;
     -webkit-transition: 0.25s background-color linear;
     transition: 0.25s background-color linear;
+
     &.special {
       background-color: #f17f57;
+
       * {
         color: white;
       }
     }
+
     &:hover {
       background-color: rgba(#212121, 0.75);
+
       * {
         color: white;
       }
@@ -125,9 +154,26 @@
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+
   * {
     color: white;
     font-size: 2rem;
     font-weight: 300;
   }
+}
+
+.lang {
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
+.us {
+  background-color: #BF0A30;
+}
+
+.br {
+  background-color: #009b3a;
 }

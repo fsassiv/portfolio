@@ -112,6 +112,7 @@ h6 {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
+  position: relative;
 }
 
 .bio__img {
@@ -125,8 +126,15 @@ h6 {
 }
 
 .bio__img:hover {
-  width: 200px;
+  width: 150px;
   border-width: 0;
+}
+
+.bio__lang {
+  position: absolute;
+  left: 0;
+  bottom: -10%;
+  font-size: 16px;
 }
 
 .skills__row {
@@ -245,6 +253,22 @@ h6 {
   color: white;
   font-size: 2rem;
   font-weight: 300;
+}
+
+.lang {
+  color: white;
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
+.us {
+  background-color: #BF0A30;
+}
+
+.br {
+  background-color: #009b3a;
 }
 
 /*# sourceMappingURL=style.css.map */
