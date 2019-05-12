@@ -1,7 +1,8 @@
 # Flavio Santos de Andrade
 
-## Front-end Web Developer
-## Graduating on "Gestão de Tecnologia da Informação"
+> Front-end Web Developer
+
+> Graduating on "Gestão de Tecnologia da Informação"
 
 ### Languages: pt-BR, en-US
 
