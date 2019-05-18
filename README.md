@@ -22,7 +22,7 @@
 | Webpack    | Git          |          |
 | Babel      | Gulp         |          |
 | MySQL      | Php          |          |
-|            | Wordpress    |          |
+| PWA        | Wordpress    |          |
 
 
 ## PROTFÓLIO
