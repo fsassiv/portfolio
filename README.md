@@ -23,6 +23,7 @@
 | Babel      | Gulp         |          |
 | MySQL      | Php          |          |
 | PWA        | Wordpress    |          |
+| Node.js    |              |          |
 
 
 ## PROTFÓLIO
