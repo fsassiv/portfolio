@@ -24,7 +24,13 @@
 | MySQL      | Php          |          |
 | PWA        | Wordpress    |          |
 | Node.js    |              |          |
+| Express    |              |          |
+| Mongo DB   |              |          |
+| Mongoose   |              |          |
 | Nuxt.js    |              |          |
+
+### Extra info
+Experiencia em desenvolvimento de SPA, Metodologia BEM CSS, Materialize CSS, Bulma CSS e Bootstrap.
 
 
 ## PROTFÓLIO
