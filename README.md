@@ -24,6 +24,7 @@
 | MySQL      | Php          |          |
 | PWA        | Wordpress    |          |
 | Node.js    |              |          |
+| Nuxt.js    |              |          |
 
 
 ## PROTFÓLIO
