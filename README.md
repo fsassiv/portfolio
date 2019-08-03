@@ -48,7 +48,7 @@ Experiencia em desenvolvimento de SPA, Metodologia BEM CSS, Materialize CSS, Bul
 
 ## PRETENSÃO SALARIAL
 
-CLT: > R$ 2.800,00 + VT+ VL + Beneficios
-PJ: > R$ 3.500,00
+- CLT: > R\$ 2.800,00 + [VT+ VL] + Beneficios
+- PJ: > R\$ 3.500,00
 
 _The future belongs to those who prepare for it today - Malcolm X_
