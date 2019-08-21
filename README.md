@@ -22,18 +22,23 @@
 | React      | jQuery       | CSS      |
 | GraphQL    | Vue.js       | SASS     |
 | Webpack    | Git          |          |
-| Babel      | Gulp         |          |
-| MySQL      | Php          |          |
-| PWA        | Wordpress    |          |
-| Node.js    |              |          |
+| MySQL      | Gulp         |          |
+| PWA        | Php          |          |
+| Node.js    | Wordpress    |          |
 | Express    |              |          |
 | Mongo DB   |              |          |
 | Mongoose   |              |          |
 | Nuxt.js    |              |          |
 
-### Extra info
+### Extra skills
 
-Experiencia em desenvolvimento de SPA, Metodologia BEM CSS, Materialize CSS, Bulma CSS e Bootstrap.
+Experiencia em POO Javascript, intergração REST API, desenvolvimento de SPA, Metodologia BEM CSS, Materialize CSS, Bulma CSS e Bootstrap.
+
+## EXPERIÊNCIA PROFISSIONAL
+
+- WTF - Desenvolvedor Front-end [Atual]
+- N3 - Estagio Desenvolvedor Front-end [5 meses]
+- Keep Informatica - Estagio Desenvolvedor Front-end [5 meses]
 
 ## PROTFÓLIO
 
