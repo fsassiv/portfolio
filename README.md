@@ -37,8 +37,8 @@ Experiencia em POO Javascript, intergração REST API, desenvolvimento de SPA, M
 ## EXPERIÊNCIA PROFISSIONAL
 
 - WTF - Desenvolvedor Front-end [Atual]
-- N3 - Estagio Desenvolvedor Front-end [5 meses]
-- Keep Informatica - Estagio Desenvolvedor Front-end [5 meses]
+- N3 - Estagio Front-end [5 meses]
+- Keep Informatica - Estagio Front-end [5 meses]
 
 ## PROTFÓLIO
 
