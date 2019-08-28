@@ -16,23 +16,24 @@
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
-| Beginner   | Intermediate | Advanced |
-| ---------- | ------------ | -------- |
-| Typescript | Javascript   | HTML     |
-| React      | jQuery       | CSS      |
-| GraphQL    | Vue.js       | SASS     |
-| Webpack    | Git          |          |
-| MySQL      | Gulp         |          |
-| PWA        | Php          |          |
-| Node.js    | Wordpress    |          |
-| Express    |              |          |
-| Mongo DB   |              |          |
-| Mongoose   |              |          |
-| Nuxt.js    |              |          |
+| Beginner   | Intermediate | Advanced   |
+| ---------- | ------------ | ---------- |
+| Typescript | jQuery       | HTML       |
+| React      | Vue.js       | CSS        |
+| Redux      | Vuex         | SASS       |
+| GraphQL    | Vue Router   | Javascript |
+| Webpack    | Git          |            |
+| MySQL      | Gulp         |            |
+| Node.js    | Php          |            |
+| Express    | Wordpress    |            |
+| Mongo DB   | PWA          |            |
+| Mongoose   |              |            |
+| Nuxt.js    |              |            |
+| Firebase   |              |            |
 
 ### Extra skills
 
-Experiencia em POO Javascript, intergração REST API, desenvolvimento de SPA, Metodologia BEM CSS, Materialize CSS, Bulma CSS e Bootstrap.
+Experiencia em POO Javascript, Javascript ES6+, intergração REST API, desenvolvimento de SPA, Metodologia BEM CSS, Materialize CSS, Bulma CSS e Bootstrap.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
@@ -50,6 +51,10 @@ Experiencia em POO Javascript, intergração REST API, desenvolvimento de SPA, M
 - [TOPFY](http://topfy.net.br/)
 - [DECLARE ONLINE](http://declareonline.com.br)
 - [DRUMMOND](http://drummondpar.com) "mobile version"
+
+Testes:
+
+- [Teste em React](https://fsassiv.github.io/fluent/)
 
 ## PRETENSÃO SALARIAL
 
