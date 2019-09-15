@@ -16,20 +16,21 @@
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
-| Beginner   | Intermediate | Advanced   |
-| ---------- | ------------ | ---------- |
-| Typescript | jQuery       | HTML       |
-| React      | Vue.js       | CSS        |
-| Redux      | Vuex         | SASS       |
-| GraphQL    | Vue Router   | Javascript |
-| Webpack    | Git          |            |
-| MySQL      | Gulp         |            |
-| Node.js    | Php          |            |
-| Express    | Wordpress    |            |
-| Mongo DB   | PWA          |            |
-| Mongoose   |              |            |
-| Nuxt.js    |              |            |
-| Firebase   |              |            |
+| Beginner                      | Intermediate | Advanced   |
+| ----------------------------- | ------------ | ---------- |
+| Typescript                    | jQuery       | HTML       |
+| React                         | Vue.js       | CSS        |
+| Redux                         | Vuex         | SASS       |
+| GraphQL                       | Vue Router   | Javascript |
+| Webpack                       | Git          |            |
+| MySQL                         | Gulp         |            |
+| Node.js                       | Php          |            |
+| Express                       | Wordpress    |            |
+| Mongo DB                      | PWA          |            |
+| Mongoose                      |              |            |
+| Nuxt.js                       |              |            |
+| Firebase                      |              |            |
+| CSS-IN-JS (Styled-components) |              |            |
 
 ### Extra skills
 
