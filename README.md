@@ -58,7 +58,7 @@ Experiencia em POO Javascript, Javascript ES6+, intergração REST API, desenvol
 Testes:
 
 - [Teste em React I](https://fsassiv.github.io/fluent/)
-- [Teste em Ract II](https://crwn-live-fsa.herokuapp.com)
+- [Teste em React & Redux](https://crwn-live-fsa.herokuapp.com)
 
 ## PRETENSÃO SALARIAL
 
