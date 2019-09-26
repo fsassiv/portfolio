@@ -38,7 +38,7 @@ Experiencia em POO Javascript, Javascript ES6+, intergração REST API, desenvol
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- WTF - Desenvolvedor Front-end [Atual]
+- WTF - Desenvolvedor Front-end Jr [Atual]
 - N3 - Estagio Front-end [5 meses]
 - Keep Informatica - Estagio Front-end [5 meses]
 
@@ -51,11 +51,14 @@ Experiencia em POO Javascript, Javascript ES6+, intergração REST API, desenvol
 - [BLUM](http://www.blumdh.com.br/)
 - [TOPFY](http://topfy.net.br/)
 - [DECLARE ONLINE](http://declareonline.com.br)
+- [HERMES LANDINGPAGE](http://wtf.inf.br/hermes/) "Projeto em desenvolvimento"
 - [DRUMMOND](http://drummondpar.com) "mobile version"
+- [HERMES](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em desenvolvimento"
 
 Testes:
 
-- [Teste em React](https://fsassiv.github.io/fluent/)
+- [Teste em React I](https://fsassiv.github.io/fluent/)
+- [Teste rem Ract II](https://crwn-live-fsa.herokuapp.com)
 
 ## PRETENSÃO SALARIAL
 
