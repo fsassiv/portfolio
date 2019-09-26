@@ -62,7 +62,7 @@ Testes:
 
 ## PRETENSÃO SALARIAL
 
-- CLT: > R\$ 2.800,00 + VA/VR + Beneficios
-- PJ: > R\$ 3.500,00
+- CLT: > R\$ 3.000,00 + VA/VR + Beneficios
+- PJ: > R\$ 3.800,00
 
 _The future belongs to those who prepare for it today - Malcolm X_
