@@ -1,6 +1,6 @@
 # Flavio Santos de Andrade
 
-> Front-end Web Developer
+> Front-end Web Developer (Vue & React)
 
 > Graduating on "Gestão de Tecnologia da Informação"
 
@@ -31,10 +31,11 @@
 | Nuxt.js                       |              |            |
 | Firebase                      |              |            |
 | CSS-IN-JS (Styled-components) |              |            |
+| Jest                          |              |            |
 
 ### Extra skills
 
-Experiencia em POO Javascript, Javascript ES6+, intergração REST API, desenvolvimento de SPA, Metodologia BEM e RSCSS, Materialize CSS, Bulma CSS e Bootstrap.
+Experiencia em POO Javascript, Javascript ES6+,TDD, intergração REST API, desenvolvimento de SPA, Metodologia BEM e RSCSS, Materialize CSS, Bulma CSS e Bootstrap.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
@@ -62,7 +63,7 @@ Testes:
 
 ## PRETENSÃO SALARIAL
 
-- CLT: > R\$ 3.000,00 + VA/VR + Beneficios
-- PJ: > R\$ 3.800,00
+- CLT: > R\$ 4.000,00 + VA/VR + Beneficios
+- PJ: > R\$ 5.000,00
 
 _The future belongs to those who prepare for it today - Malcolm X_
