@@ -19,19 +19,19 @@
 | Beginner                      | Intermediate | Advanced   |
 | ----------------------------- | ------------ | ---------- |
 | Typescript                    | jQuery       | HTML       |
-| React                         | Vue.js       | CSS        |
-| Redux                         | Vuex         | SASS       |
-| GraphQL                       | Vue Router   | Javascript |
+| GraphQL                       | Vue.js       | CSS        |
+| Webpack                       | Vuex         | SASS       |
+| MySQL                         | Vue Router   | Javascript |
 | Webpack                       | Git          |            |
 | MySQL                         | Gulp         |            |
-| Node.js                       | Php          |            |
-| Express                       | Wordpress    |            |
-| Mongo DB                      | PWA          |            |
-| Mongoose                      |              |            |
-| Nuxt.js                       |              |            |
-| Firebase                      |              |            |
-| CSS-IN-JS (Styled-components) |              |            |
-| Jest                          |              |            |
+| Mongo DB                      | Php          |            |
+| Mongoose                      | Wordpress    |            |
+| Nuxt.js                       | PWA          |            |
+| Firebase                      | React        |            |
+| CSS-IN-JS (Styled-components) | Redux        |            |
+| Next.js                       | Node.js      |            |
+| Jest                          | Express      |            |
+|                               |              |            |
 
 ### Extra skills
 
@@ -39,7 +39,8 @@ Experiencia em POO Javascript, Javascript ES6+,TDD, intergração REST API, dese
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- WTF - Desenvolvedor Front-end Jr [Atual]
+- Ingenium Systems - Desenvolvedor Front-end PL [Atual]
+- WTF - Desenvolvedor Front-end Jr [6 meses]
 - N3 - Estagio Front-end [5 meses]
 - Keep Informatica - Estagio Front-end [5 meses]
 
