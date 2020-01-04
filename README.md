@@ -35,7 +35,10 @@
 
 ### Extra skills
 
-Experiencia em POO Javascript, Javascript ES6+,TDD, intergração REST API, desenvolvimento de SPA, Metodologia BEM e RSCSS, Materialize CSS, Bulma CSS e Bootstrap.
+POO Javascript, Javascript ES6+,TDD, REST API,SPA, PWA.
+Metodologia BEM, RSCSS, ITCSS e DRY.
+
+<!-- Materialize CSS, Bulma CSS e Bootstrap. -->
 
 ## EXPERIÊNCIA PROFISSIONAL
 
