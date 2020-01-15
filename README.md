@@ -6,6 +6,7 @@
 
 ### Languages: pt-BR, en-US
 
+- [Linkedin](https://www.linkedin.com/in/flavio-andrade-900552192/)
 - Email: flavio.ssiv@gmail.com
 - [071982320674](https://api.whatsapp.com/send?1=pt_BR&phone=5571982320674)
 - Location: Salvador-BA
@@ -35,7 +36,7 @@
 
 ### Extra skills
 
-POO Javascript, Javascript ES6+,TDD, REST API,SPA, PWA.
+POO Javascript, Javascript ES6+,TDD, REST API, SPA, PWA, Design Pattern.
 Metodologia BEM, RSCSS, ITCSS e DRY.
 
 <!-- Materialize CSS, Bulma CSS e Bootstrap. -->
