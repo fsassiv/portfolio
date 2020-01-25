@@ -13,7 +13,7 @@
 
 ---
 
-## Skill sets:
+## Skills Set:
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
@@ -32,7 +32,9 @@
 | CSS-IN-JS (Styled-components) | Redux        |            |
 | Next.js                       | Node.js      |            |
 | Jest                          | Express      |            |
-|                               |              |            |
+
+### DevOps
+Jenkins
 
 ### Extra skills
 
@@ -50,26 +52,29 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## PROTFÓLIO
 
-- [TECLA UP](https://teclaup.com/)
-- [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/)
+- [TECLA UP - Wordpress](https://teclaup.com/)
+<!-- - [MURAL PUBLICIDADE](http://www.muralpublicidade.com.br/v4/) -->
 - [JUNIOR BARRETO](https://jrbarreto.com.br/)
-- [KEEP INFORMATICA](http://www.keepinformatica.com.br/)
-- [BLUM](http://www.blumdh.com.br/)
-- [TOPFY](http://topfy.net.br/)
+<!-- - [KEEP INFORMATICA - Wordpress](http://www.keepinformatica.com.br/) -->
+- [BLUM - Wordpress](http://www.blumdh.com.br/)
+- [TOPFY  - Wordpress](http://topfy.net.br/)
 - [DECLARE ONLINE](http://declareonline.com.br)
-- [HERMES LANDINGPAGE](http://wtf.inf.br/hermes/) "Projeto em desenvolvimento"
-- [DRUMMOND](http://drummondpar.com) "mobile version"
-- [HERMES](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em desenvolvimento"
+- [HERMES LANDINGPAGE](http://wtf.inf.br/hermes/) "Projeto em finalizado"
+<!-- - [DRUMMOND](http://drummondpar.com) "mobile version" -->
+- [HERMES - Vue.js](https://relaxed-lovelace-47c83d.netlify.com) "Projeto em não finalizado"
 
 Testes:
 
-- [Teste em React I](https://fsassiv.github.io/fluent/)
-- [Teste em React & Redux](https://crwn-live-fsa.herokuapp.com)
+- [Teste em React & useReducer+useContext](https://fsareactmusic.herokuapp.com/reactmusic)
 - [Teste em React & DialogFlow](https://hidden-shore-37841.herokuapp.com)
+- [Teste em React & Redux](https://crwn-live-fsa.herokuapp.com)
+- [Teste em React I](https://fsassiv.github.io/fluent/)
+
+- [Teste Vue.js](https://fsassiv.github.io/tmdbclose/)
 
 ## PRETENSÃO SALARIAL
 
-- CLT: > R\$ 4.000,00 + VA/VR + Beneficios
 - PJ: > R\$ 5.000,00
+- CLT: > R\$ 4.000,00 + VA/VR + Beneficios
 
 _The future belongs to those who prepare for it today - Malcolm X_
