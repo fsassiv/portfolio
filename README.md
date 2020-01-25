@@ -23,15 +23,15 @@
 | GraphQL                       | Vue.js       | CSS        |
 | Webpack                       | Vuex         | SASS       |
 | MySQL                         | Vue Router   | Javascript |
-| Webpack                       | Git          |            |
-| MySQL                         | Gulp         |            |
-| Mongo DB                      | Php          |            |
-| Mongoose                      | Wordpress    |            |
-| Nuxt.js                       | PWA          |            |
-| Firebase                      | React        |            |
-| CSS-IN-JS (Styled-components) | Redux        |            |
-| Next.js                       | Node.js      |            |
-| Jest                          | Express      |            |
+| Mongo DB                      | Git          |            |
+| Mongoose                      | Gulp         |            |
+| Nuxt.js                       | Php          |            |
+| Next.js                       | Wordpress    |            |
+| Firebase                      | PWA          |            |
+| CSS-IN-JS (Styled-components) | React        |            |
+| Jest                          | Redux        |            |
+|                               | Node.js      |            |
+|                               | Express      |            |
 
 ### DevOps
 Jenkins
