@@ -70,6 +70,7 @@ Testes:
 - [Teste em React & Redux](https://crwn-live-fsa.herokuapp.com)
 - [Teste em React I](https://fsassiv.github.io/fluent/)
 
+- [Teste Vue.js simples PWA](https://thirsty-edison-a3034a.netlify.com/)
 - [Teste Vue.js](https://fsassiv.github.io/tmdbclose/)
 
 ## PRETENSÃO SALARIAL
