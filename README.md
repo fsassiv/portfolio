@@ -34,7 +34,7 @@
 |                               | Express      |            |
 
 ### DevOps
-Jenkins
+Jenkins, Docker, Kubernetes
 
 ### Extra skills
 
