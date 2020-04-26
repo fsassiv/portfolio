@@ -45,7 +45,8 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- Ingenium Systems - Desenvolvedor Front-end PL [Atual]
+- [Agilize Contabilide Online](https://www.agilize.com.br/) [Atual]
+- Ingenium Systems - Desenvolvedor Front-end PL [5 meses]
 - WTF - Desenvolvedor Front-end Jr [6 meses]
 - N3 - Estagio Front-end [5 meses]
 - Keep Informatica - Estagio Front-end [5 meses]
@@ -75,7 +76,6 @@ Testes:
 
 ## PRETENSÃO SALARIAL
 
-- PJ: > R\$ 5.000,00
-- CLT: > R\$ 4.000,00 + VA/VR + Beneficios
+- CLT: > R\$ 5.000,00 + Beneficios
 
 _The future belongs to those who prepare for it today - Malcolm X_
