@@ -17,21 +17,24 @@
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
-| Beginner                      | Intermediate | Advanced   |
-| ----------------------------- | ------------ | ---------- |
-| Typescript                    | jQuery       | HTML       |
-| GraphQL                       | Vue.js       | CSS        |
-| Webpack                       | Vuex         | SASS       |
-| MySQL                         | Vue Router   | Javascript |
-| Mongo DB                      | Git          |            |
-| Mongoose                      | Gulp         |            |
-| Nuxt.js                       | Php          |            |
-| Next.js                       | Wordpress    |            |
-| Firebase                      | PWA          |            |
-| CSS-IN-JS (Styled-components) | React        |            |
-| Jest                          | Redux        |            |
-|                               | Node.js      |            |
-|                               | Express      |            |
+| Beginner | Intermediate                  | Advanced   |
+| -------- | ----------------------------- | ---------- |
+| Jest     | jQuery                        | HTML       |
+| GraphQL  | Vue.js                        | CSS        |
+| Firebase | Vuex                          | SASS       |
+| MySQL    | Vue Router                    | Javascript |
+| Mongo DB | Git                           | React      |
+| Mongoose | Gulp                          |            |
+| Nuxt.js  | Php                           |            |
+| Next.js  | Wordpress                     |            |
+|          | PWA                           |            |
+|          | Typescript                    |            |
+|          | Redux                         |            |
+|          | Node.js                       |            |
+|          | Express                       |            |
+|          | Webpack                       |            |
+|          | CSS-IN-JS (styled-components) |            |
+|          |                               |            |
 
 ### DevOps
 Jenkins, Docker, Kubernetes
