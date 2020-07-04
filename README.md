@@ -37,7 +37,7 @@
 |          |                               |            |
 
 ### DevOps
-Jenkins, Docker, Kubernetes
+Jenkins, Docker
 
 ### Extra skills
 
