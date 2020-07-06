@@ -41,7 +41,7 @@ Jenkins, Docker
 
 ### Extra skills
 
-POO Javascript, Javascript ES6+,TDD, REST API, SPA, PWA, Design Pattern.
+Functional Programming,POO Javascript, Javascript ES6+,TDD, REST API, SPA, PWA, Design Pattern.
 Metodologia BEM, RSCSS, ITCSS e DRY.
 
 <!-- Materialize CSS, Bulma CSS e Bootstrap. -->
