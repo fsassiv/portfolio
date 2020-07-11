@@ -17,19 +17,19 @@
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
-| Beginner | Intermediate                  | Advanced                       |
-| -------- | ----------------------------- | ------------------------------ |
-| Jest     | Typescript                    | HTML                           |
-| GraphQL  | Vue.js (Vuex, Vue Router)     | CSS                            |
-| Firebase | Webpack                       | SASS                           |
-| MySQL    | Node.js (Express.js)          | Javascript                     |
-| Mongo DB | Git                           | React (Redux, Context, Router) |
-| Mongoose | Gulp                          |                                |
-| Nuxt.js  | Php                           |                                |
-| Next.js  | Wordpress                     |                                |
-|          | PWA                           |                                |
-|          | CSS-IN-JS (styled-components) |                                |
-|          |                               |                                |
+| Beginner              | Intermediate                  | Advanced                       |
+| --------------------- | ----------------------------- | ------------------------------ |
+| Jest                  | Typescript                    | HTML                           |
+| GraphQL               | Vue.js (Vuex, Vue Router)     | CSS                            |
+| Firebase              | Webpack                       | SASS                           |
+| MySQL                 | Node.js (Express.js)          | Javascript                     |
+| Mongo DB              | Git                           | React (Redux, Context, Router) |
+| Storybook             | Gulp                          |                                |
+| Nuxt.js               | Php                           |                                |
+| Next.js               | Wordpress                     |                                |
+| React-testing-library | PWA                           |                                |
+|                       | CSS-IN-JS (styled-components) |                                |
+|                       |                               |                                |
 
 <!-- ### DevOps
 Jenkins, Docker -->
