@@ -17,27 +17,22 @@
 
 <!-- > Subtitle: B - Beginner, I - Intermediate and A - Advanced -->
 
-| Beginner | Intermediate                  | Advanced   |
-| -------- | ----------------------------- | ---------- |
-| Jest     | jQuery                        | HTML       |
-| GraphQL  | Vue.js                        | CSS        |
-| Firebase | Vuex                          | SASS       |
-| MySQL    | Vue Router                    | Javascript |
-| Mongo DB | Git                           | React      |
-| Mongoose | Gulp                          |            |
-| Nuxt.js  | Php                           |            |
-| Next.js  | Wordpress                     |            |
-|          | PWA                           |            |
-|          | Typescript                    |            |
-|          | Redux                         |            |
-|          | Node.js                       |            |
-|          | Express                       |            |
-|          | Webpack                       |            |
-|          | CSS-IN-JS (styled-components) |            |
-|          |                               |            |
+| Beginner | Intermediate                  | Advanced                       |
+| -------- | ----------------------------- | ------------------------------ |
+| Jest     | Typescript                    | HTML                           |
+| GraphQL  | Vue.js (Vuex, Vue Router)     | CSS                            |
+| Firebase | Webpack                       | SASS                           |
+| MySQL    | Node.js (Express.js)          | Javascript                     |
+| Mongo DB | Git                           | React (Redux, Context, Router) |
+| Mongoose | Gulp                          |                                |
+| Nuxt.js  | Php                           |                                |
+| Next.js  | Wordpress                     |                                |
+|          | PWA                           |                                |
+|          | CSS-IN-JS (styled-components) |                                |
+|          |                               |                                |
 
-### DevOps
-Jenkins, Docker
+<!-- ### DevOps
+Jenkins, Docker -->
 
 ### Extra skills
 
