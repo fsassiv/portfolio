@@ -43,7 +43,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Agilize Contabilide Online](https://www.agilize.com.br/) [7 meses]
+- [Agilize Contabilide Online](https://www.agilize.com.br/) [8 meses]
 
   - Stack utilizada: Typescript, React, React Hooks, Context API Storybook, Jest, React-testing-library, styled-components, Material-UI;
   - Atividades: Atualização de sistema contábil legado e desenvolvimento de nova versão, desenvolvimento de design system seguindo padrões de UX.
