@@ -43,12 +43,14 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Agilize Contabilide Online](https://www.agilize.com.br/) [8 meses]
+- [Mundiale](https://www.mundiale.com.br/) - Engenheiro de Software [Atual]
+
+- [Agilize Contabilide Online](https://www.agilize.com.br/) - Engenheiro de Software [8 meses]
 
   - Stack utilizada: Typescript, React, React Hooks, Context API Storybook, Jest, React-testing-library, styled-components, Material-UI;
   - Atividades: Atualização de sistema contábil legado e desenvolvimento de nova versão, desenvolvimento de design system seguindo padrões de UX.
 
-- Ingenium Systems - Desenvolvedor Front-end PL [5 meses]
+- Ingenium Systems - Desenvolvedor Front-end [5 meses]
 
   - Stack utilizada: React, React Hooks, Redux, Redux-thunk;
   - Atividades: Atualização de aplicação, criação de interfaces do projeto de chatbot;
