@@ -2,7 +2,7 @@
 
 > Front-end Web Developer (Vue & React)
 
-> Graduating on "Gestão de Tecnologia da Informação"
+> Graduado em "Gestão de Tecnologia da Informação" pela Uninter
 
 ### Languages: pt-BR, en-US
 
@@ -43,7 +43,7 @@ Metodologia BEM, RSCSS, ITCSS e DRY.
 
 ## EXPERIÊNCIA PROFISSIONAL
 
-- [Mundiale](https://www.mundiale.com.br/) - Engenheiro de Software [Atual]
+- [Mundiale](https://www.mundiale.com.br/) - Engenheiro de Software [1 mes]
 
 - [Agilize Contabilide Online](https://www.agilize.com.br/) - Engenheiro de Software [8 meses]
 
@@ -94,7 +94,7 @@ Testes:
 
 ## PRETENSÃO SALARIAL
 
-- CLT: > R\$ 6.500,00 + Beneficios
-- PJ: > R\$ 8.000,00
+- CLT: > R\$ 7.000,00 + Beneficios
+- PJ: > R\$ 9.000,00
 
 _The future belongs to those who prepare for it today - Malcolm X_
